@@ -6,7 +6,7 @@ public class Profil {
     private static final int MIN_HOMME = 15;
     private static final int MAX_HOMME = 20;
     private static final String[] MESSAGE = {"trop faible", "normal", "trop élevé"};
-    private static final String[] IMAGE = {"maigre", "normal", "graisse"};
+    private static final String[] IMAGE = {"catpointing", "normal", "catpointing"};
     private Integer poids;
     private Integer taille;
     private Integer age;
