@@ -76,6 +76,7 @@ public class Profil {
     }
 
     public Integer getPoids() { return poids; }
+    public Integer getTaille() { return taille; }
     public Integer getAge() { return age; }
     public Integer getSexe() { return sexe; }
 
